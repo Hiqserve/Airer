@@ -1,0 +1,43 @@
+{
+    "name": "airer",
+    "displayName": "Airer",
+    "description": "The Dark Theme from NEMIREA, Inc.",
+    "version": "1.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "icon": "images/logo.png",
+    "galleryBanner": {
+        "color": "#23262E",
+        "theme": "dark"
+    },
+    "publisher": "NEMIREA, Inc.",
+    "author": {
+        "name": "Sanawin Long",
+        "url": "https://github.com/NEMIREA",
+        "email": "example@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/NEMIREA/Airer"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "airer theme",
+        "dark theme",
+        "nemirea",
+        "nemirea theme",
+        "nemirea cambodia",
+        "nemirea, inc."
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Airer",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Airer-color-theme.json"
+            }
+        ]
+    }
+}
