@@ -1,6 +1,6 @@
 # README
 ## This is the the theme from 
-#NEMIREA, Inc.
+# NEMIREA, Inc.
 
 Copyright @ 2021 NEMIREA, Inc. All rights reserved.
 
