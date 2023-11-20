@@ -4,7 +4,7 @@
 
 ## Overview
 
-Airer is a meticulously crafted dark theme for Visual Studio Code, designed to enhance your coding experience with a sleek and modern appearance. This theme is brought to you by Netcarex Inc. 🚀
+Airer is a meticulously crafted dark theme for Visual Studio Code, designed to enhance your coding experience with a sleek and modern appearance. This theme is brought to you by Hiqserve Inc. 🚀
 
 ## Features
 
@@ -31,11 +31,11 @@ If you encounter any issues or have suggestions for improvement, please [open an
 
 ## License
 
-Copyright © 2021 Netcarex Inc. All rights reserved. 📜
+Copyright © 2021 Hiqserve Inc. All rights reserved. 📜
 
 ## Connect with Us
 
-- [Netcarex Community](https://example.com/hiqserve-community) 🌐
-- Follow us on Twitter: [@Netcarex](https://twitter.com/hiqserve) 🐦
+- [Hiqserve Community](https://example.com/hiqserve-community) 🌐
+- Follow us on Twitter: [@Hiqserve](https://twitter.com/hiqserve) 🐦
 
 Thank you for using Airer! Happy coding! 💻✨
